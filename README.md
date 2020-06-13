@@ -1,5 +1,7 @@
 # Socco
 
+This is a fork.
+
 Socco is a Scala compiler plugin to generate documentation from Scala source files.
 
 It produces HTML documents that display your comments alongside your code. Comments are passed through Markdown, and the Scala code is syntax highlighted, typed and linked to the appropriate API Doc.
